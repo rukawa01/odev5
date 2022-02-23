@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "odev5", "odev5\odev5.csproj", "{D238B64D-4E47-418E-B12F-4FF1AD41E48B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reelOdev5", "reelOdev5\reelOdev5.csproj", "{DBCFDC1E-F48E-4651-9E5B-CA274523BCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D238B64D-4E47-418E-B12F-4FF1AD41E48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D238B64D-4E47-418E-B12F-4FF1AD41E48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D238B64D-4E47-418E-B12F-4FF1AD41E48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D238B64D-4E47-418E-B12F-4FF1AD41E48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBCFDC1E-F48E-4651-9E5B-CA274523BCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCFDC1E-F48E-4651-9E5B-CA274523BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCFDC1E-F48E-4651-9E5B-CA274523BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCFDC1E-F48E-4651-9E5B-CA274523BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7C7940-3ED1-400F-AC06-4DD8BEE1FCEB}
+	EndGlobalSection
+EndGlobal
