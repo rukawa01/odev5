@@ -46,7 +46,7 @@ PlayersProp player4 = new PlayersProp()
 PlayersProp player5 = new PlayersProp()
 {
     nickName = "Judas Balonu",
-    password = "emreyleCimaEyledim",
+    password = "judas1234",
     TC = 12345678907,
     birthYear = 2003
 };
